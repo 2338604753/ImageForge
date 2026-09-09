@@ -14,3 +14,7 @@ data/
 ## 系统
 Thumbs.db
 *.log
+
+## 发布产物（不提交）
+dist/
+publish/
