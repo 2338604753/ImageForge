@@ -1,0 +1,16 @@
+## .NET 构建产物
+bin/
+obj/
+*.user
+
+## IDE
+.vs/
+.idea/
+*.suo
+
+## 本地数据（运行时生成）
+data/
+
+## 系统
+Thumbs.db
+*.log
